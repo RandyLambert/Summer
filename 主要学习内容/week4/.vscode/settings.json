@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "errno.h": "c",
+        "my_recv.h": "c",
+        "inet.h": "c",
+        "unistd.h": "c",
+        "in.h": "c",
+        "socket.h": "c",
+        "epoll.h": "c",
+        "my_client.h": "c",
+        "my_serthread.h": "c",
+        "mysql.h": "c",
+        "all.h": "c",
+        "md5.h": "c",
+        "memory.h": "c",
+        "pthread.h": "c"
+    }
+}

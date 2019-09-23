@@ -1,0 +1,22 @@
+a.out
+myshell
+myshell.c
+text
+text.c
+a.out
+myshell
+myshell.c
+text
+text.c
+总用量 64
+-rwxr-xr-x 1 sunxiaochuan sunxiaochuan  8496 7月  25 13:13 a.out
+-rwxr-xr-x 1 sunxiaochuan sunxiaochuan 28184 7月  25 14:08 myshell
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan 12436 7月  25 14:08 myshell.c
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan    72 7月  25 14:09 text
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan   538 7月  25 13:13 text.c
+总用量 64
+-rwxr-xr-x 1 sunxiaochuan sunxiaochuan  8496 7月  25 13:13 a.out
+-rwxr-xr-x 1 sunxiaochuan sunxiaochuan 28184 7月  25 15:08 myshell
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan 12460 7月  25 15:08 myshell.c
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan   421 7月  25 14:10 text
+-rw-r--r-- 1 sunxiaochuan sunxiaochuan   538 7月  25 13:13 text.c
